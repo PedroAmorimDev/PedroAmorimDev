@@ -18,7 +18,7 @@
 
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=react,html,css,github,figma,git,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,html,sass,github,figma,git,nodejs" />
 </div><br/>
 
 
