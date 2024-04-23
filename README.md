@@ -16,3 +16,6 @@
 
 
 <br><br>
+
+
+![snake gif](https://github.com/PedroAmorimDev/PedroAmorimDev/blob/output/github-contribution-grid-snake.gif)
